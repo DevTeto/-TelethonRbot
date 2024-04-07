@@ -8,7 +8,7 @@
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/afrotoo66/tlethon3",
+	"repository": "https://github.com/DevTeto/-TelethonRbot/edit/main/app.json",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
